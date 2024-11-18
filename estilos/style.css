@@ -36,7 +36,7 @@ section#login {
     box-shadow: 2px -2px 5px 0px rgba(0, 0, 0, 0.226);
     transform: translate(-50%, -50%);
     overflow: hidden;
-    
+
 }
 
 div#imagem {
@@ -56,4 +56,11 @@ section#login>div#formulario {
 
 }
 
+div#formulario> h1 {
+    text-align: center;
+    margin-bottom: 10px;
+}
 
+div#formulario > p {font-size: 0.8em;
+
+}
